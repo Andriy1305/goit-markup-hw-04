@@ -376,13 +376,13 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455; 
 }
-.footer-container{
+
+.footer-container  {
 column-gap: 0;
 display: flex;
 align-items: baseline;
 flex-direction: row;
 max-width: 1158px;
-padding: 0 158px;
 }
 .icon-sumb{
 display:block;

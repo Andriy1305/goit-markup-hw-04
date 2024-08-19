@@ -382,7 +382,7 @@ display: flex;
 align-items: baseline;
 flex-direction: row;
 max-width: 1158px;
-padding: 0 15px;
+padding: 0 158px;
 }
 .icon-sumb{
 display:block;
@@ -390,9 +390,8 @@ width: 208px;
 height: 80px
 }
 .logo-sumb{
-margin-bottom: 132px;
 margin-right: 120px;
-margin-left: 156px;
+
 }
 .footer-p{
 font-weight: 500;
